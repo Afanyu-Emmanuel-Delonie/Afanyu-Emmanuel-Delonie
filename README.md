@@ -1,122 +1,161 @@
-# Hi there, I'm Afanyu Emmanuel 👋
+# Hi, I'm Afanyu Emmanuel 👋
 
-## Software Engineer | Building Scalable Web & Mobile Apps
+### Software Engineer | Product-Minded Builder
 
-I'm a software engineer based in Kigali, Rwanda, building high-performance web apps, mobile apps, and data-rich platforms that drive real business growth. Passionate about clean architecture, intuitive interfaces, and solutions that make a real-world impact.
+I'm a Software Engineering student based in Kigali, Rwanda, focused on building thoughtful web and mobile products.
 
----
-
-### 🚀 What I Do
-
-- Build scalable, high-performance web applications with React.js and modern frontend frameworks
-- Develop robust backend services and RESTful APIs with Django, Django REST Framework & Node.js
-- Create cross-platform mobile applications using Flutter
-- Design intuitive user interfaces with attention to detail using Figma
-- Solve real business problems through clean, maintainable code
+I combine **software engineering, product thinking, and interface design** to turn ideas into practical digital experiences. I enjoy understanding the problem behind a product, designing the experience, and building the systems that bring it to life.
 
 ---
 
-### 💻 Tech Stack
+## What I Do
 
-**Frontend**
+- Build modern web applications with **React.js, Next.js, and Tailwind CSS**
+- Develop backend systems and RESTful APIs with **Django, Django REST Framework, and Flask**
+- Build cross-platform mobile applications with **Flutter**
+- Design user interfaces and product experiences with **Figma**
+- Design and structure software systems with maintainability and scalability in mind
+- Translate business and user requirements into practical technical solutions
+- Work across the product lifecycle — from **idea and design to implementation**
+
+---
+
+## Tech Stack
+
+### Frontend
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="42" height="42"/>
 </p>
 
-**Backend**
+### Backend
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
 </p>
 
-**Mobile**
+### Mobile
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" alt="Dart" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="42" height="42"/>
 </p>
 
-**Design**
+### Design
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="42" height="42"/>
 </p>
 
-**Tools**
+### Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="42" height="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="42" height="42"/>
 </p>
 
 ---
 
-### 🌱 Currently Expanding
+## Currently Exploring
 
-- Advanced backend architecture with Django REST Framework & Node.js
-- Cross-platform mobile development with Flutter
-- Database design — SQL & NoSQL
-- Scalable system design patterns
-- Java for enterprise-level development
+I'm continuously expanding my engineering foundation and exploring:
 
----
-
-### 🎓 Education
-
-**Software Engineering**  
-Adventist University of Central Africa (AUCA), Kigali, Rwanda
+- Advanced **Django & REST API architecture**
+- Modern application development with **Next.js**
+- Cross-platform application development with **Flutter**
+- **Database systems** and data persistence
+- **System design** and scalable software architecture
+- API design and application security
+- Cloud infrastructure and deployment
+- Software engineering principles and design patterns
 
 ---
 
-### 📫 Let's Connect
+## Engineering Philosophy
+
+> **Good software starts with understanding the problem, not choosing the technology.**
+
+I approach development with a product mindset.
+
+Before building, I try to understand:
+
+- **The problem** — What are we actually solving?
+- **The user** — Who are we building for?
+- **The experience** — How should the product work and feel?
+- **The architecture** — How should the system be structured?
+- **The constraints** — What real-world limitations do we need to consider?
+- **The future** — How can the solution evolve as the product grows?
+
+For me, writing code is only one part of building good software.
+
+---
+
+## A Few Things About Me
+
+- 💡 I enjoy turning ideas into **working products**, not just concepts.
+- 🎨 I care about the relationship between **good design and good engineering**.
+- 🧩 I enjoy breaking complex problems into clear, manageable systems.
+- 🌍 I'm interested in building technology that works well in **real-world environments**, especially emerging markets.
+- 📚 I believe in learning through **building, experimenting, and understanding fundamentals**.
+- 🔍 I'm interested in the intersection of **software engineering, product, and design**.
+- 🤝 I enjoy collaborating with people who bring different perspectives to a product.
+- 🚀 I'm always looking for better ways to design, build, and ship software.
+
+---
+
+## Education
+
+**Bachelor's Degree in Software Engineering**  
+Adventist University of Central Africa (AUCA)  
+Kigali, Rwanda
+
+---
+
+## Let's Connect
 
 <p align="left">
   <a href="https://afanyu.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/afanyu-emmanuel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:afanyuemma2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  💡 <i>Open to collaborating on web, mobile, and full-stack projects that solve real problems.</i><br>
-  🚀 <i>Always learning, always building.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <strong>Building software with purpose.</strong>
+  <br/>
+  <sub>Always learning. Always building.</sub>
 </p>
